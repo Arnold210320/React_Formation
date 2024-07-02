@@ -24,10 +24,6 @@ function App() {
           </Routes>
           <Footer />
         </Router>
-        {/* 1.*/}
-        {/* 2. */}
-        {/* 3.*/}
-        {/**/}
       </div>
     </div>
   );

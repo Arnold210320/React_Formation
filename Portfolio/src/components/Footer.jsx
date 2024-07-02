@@ -4,7 +4,7 @@ import { Instagram, Twitter, Linkedin } from "lucide-react";
 export default function Footer() {
   return (
     <>
-      <footer className="  bottom-0 w-full p-4 bg-[#020817] border-slate-900">
+      <footer className="  bottom-0 w-full p-4 bg-[#020817] border-slate-900 mt-4">
         <div className=" grid grid-flow-col items-center">
           <div className="flex flex-col items-center">
             <img
